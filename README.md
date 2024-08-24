@@ -1,5 +1,3 @@
-Here is a rearranged version of your README content:
-
 ---
 
 # GitHub Badges
